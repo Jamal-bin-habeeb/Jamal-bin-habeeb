@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jamal Ahammad Shaik</h1>
-<h3 align="center">🚀 AI/ML Engineer | Generative AI Enthusiast | Aspiring Software Developer</h3>
+<h3 align="center">🚀 AI/ML Engineer | Generative AI Developer | Aspiring Software Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jamal-bin-habeeb&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
