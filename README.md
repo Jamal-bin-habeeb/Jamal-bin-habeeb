@@ -35,6 +35,13 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🦜_LangGraph-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21F?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCP-Protocol-6B4FBB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
@@ -42,6 +49,7 @@
 ### Breakdown
 - **Programming:** Python, SQL
 - **AI / ML / DL:** Supervised & Unsupervised Learning, ANN, CNN, NLP & Text Processing, Generative AI, Model Deployment
+- **Generative AI:** LangChain, LangGraph, MCP (Model Context Protocol), OpenAI SDK, HuggingFace Transformers, Ollama, ChromaDB (Vector Store), RAG Pipelines
 - **Libraries & Tools:** NumPy, Pandas, Matplotlib, Scikit-Learn, TensorFlow, PyTorch, NLTK, SpaCy, Streamlit, Git, GitHub, VS Code, MySQL
 
 ---
